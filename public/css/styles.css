@@ -115,4 +115,7 @@ footer {
   form.item{
     margin-left: 0;
   }
+  input[type="text"]{
+    width: 80vw;
+  }
 }
