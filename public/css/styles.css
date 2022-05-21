@@ -108,9 +108,11 @@ footer {
     width: 50px;
     min-height: 40px;
     margin-right: 1vw;
+    padding-bottom: 5px;
   }
   .item{
     min-height: auto;
+
   }
   form.item{
     margin-left: 0;
